@@ -1,0 +1,9 @@
+fastapi>=0.115,<1
+uvicorn[standard]>=0.30,<1
+python-multipart>=0.0.20,<1
+numpy>=1.26,<3
+Pillow>=10.4,<13
+ultralytics>=8.3,<9
+deepface>=0.0.93,<1
+tensorflow>=2.16,<2.21
+tf-keras>=2.16,<2.21
